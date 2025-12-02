@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  ul>
+  <ul>
     <li>
       <b>Stack:</b> C++17, TypeScript[React, NestJS] - trying now
     </li>
