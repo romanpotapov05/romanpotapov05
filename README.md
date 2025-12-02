@@ -1,7 +1,6 @@
 <div>
   <h1>Hi there, I'm Roman 👋</h1>
 </div>
-> C++ / TypeScript Developer based in Linux Environment.
 
 ### 💻 Stack & Tools
 
