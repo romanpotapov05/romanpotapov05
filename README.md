@@ -5,7 +5,7 @@
 <div>
   <ul>
     <li>
-      <b>Stack:</b> C++17, TypeScript[React, NestJS] - trying now
+      <b>Stack:</b> C++17, TypeScript [React, NestJS] - trying now
     </li>
     <li>
       <b>OS:</b> Linux (KDE Plasma main)
