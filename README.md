@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- Docker
+- Linux (KDE main working)
+- VS code + nvim
 - С++17
 - Now trying TS (React, Nest)
 
