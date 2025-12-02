@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-С++17
-Now trying TS (React, Nest)
+- С++17
+- Now trying TS (React, Nest)
 
 <!--
 **romanpotapov05/romanpotapov05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
