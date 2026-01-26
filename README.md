@@ -12,7 +12,7 @@
       <b>OS:</b> Linux (KDE Plasma main)
     </li>
     <li>
-      <b>Tools:</b> Docker, Git
+      <b>Tools:</b> Docker, Git + K8S
     </li>
     <li>
       <b>Editors:</b> Neovim & VS Code
