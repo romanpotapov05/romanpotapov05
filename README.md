@@ -6,13 +6,13 @@
 <div>
   <ul>
     <li>
-      <b>Stack:</b> C++17, (TypeScript + [React, NestJS]) - trying now
+      <b>Stack:</b> C++17, (TypeScript + [Angular, NestJS]) - trying now
     </li>
     <li>
-      <b>OS:</b> Linux (KDE Plasma main)
+      <b>OS:</b> Linux ZorinOS
     </li>
     <li>
-      <b>Tools:</b> Docker, Git + K8S
+      <b>Tools:</b> Docker, Git
     </li>
     <li>
       <b>Editors:</b> Neovim & VS Code
